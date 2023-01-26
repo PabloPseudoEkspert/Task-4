@@ -1,0 +1,11 @@
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\bin\Debug\Task-4.exe.config
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\bin\Debug\Task-4.exe
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\bin\Debug\Task-4.pdb
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.csproj.AssemblyReference.cache
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task_4.Form1.resources
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.csproj.GenerateResource.cache
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.csproj.CoreCompileInputs.cache
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.exe
+C:\Users\czarn\Desktop\C#\Zajęcia\Task-4\obj\Debug\Task-4.pdb
